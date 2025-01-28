@@ -1,0 +1,92 @@
+.back1{
+    background-color: #F2F2F2;
+}
+.counter {
+    font-size: 50px;
+    font-weight: bold;
+    color: #37783B;
+  }
+.edu{
+    display: flex;
+    margin: 30px;
+}
+.acheivment{
+    display: flex;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.backst{
+    display: flex;
+    background-color: #37783B;
+    width: 100%;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+#link2{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+.ayp{
+    margin: 20px;
+}
+.border{
+    width: 90%;
+    height: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #37783B;
+}
+.border1{
+    width: 90%;
+    height: 8px;
+    background-color:gray;
+}
+.footer-link:hover {
+    text-decoration: underline;
+    color: #f8f9fa;
+}
+.social-icons a {
+    color: #f8f9fa;
+    margin: 0 10px;
+    font-size: 1.5rem;
+}
+.social-icons a:hover {
+    color: #ddd;
+}
+.bg-custom-color {
+    background-color:#37783B;  /* Your custom hex color */
+}
+.hero-section {
+    position: relative;
+    height: 100vh;
+    background-color: #000;
+  }
+  .hero-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .play-pause-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  .tagline {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    font-size: 18px;
+  }
